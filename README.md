@@ -1,2 +1,2 @@
 # MyToken
-make erc20 token
+make erc20 token start
